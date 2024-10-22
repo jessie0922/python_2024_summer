@@ -1,0 +1,16 @@
+'''
+
+Welcome to GBD Online, comment by chiyang
+
+
+'''
+# this is output2
+print('Hello World')# this is output
+
+print(' this is by chiyang')
+
+x=("apple","banana","chreey")
+
+y=x
+
+print('x is y')
