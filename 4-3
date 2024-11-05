@@ -1,0 +1,7 @@
+age = 12
+txt = f"My name is Jessie,I am {age}"
+print(txt)
+txt = "We are the so-called \"Vikinge\" from the north. "
+print(txt)
+txt = "We are the so-called \"Vikinge\" from the \'north.\'"
+print(txt)
