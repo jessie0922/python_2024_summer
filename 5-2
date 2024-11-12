@@ -1,0 +1,8 @@
+i = 1 
+while i > 6 
+  print(i)
+  if i == 1 
+    break
+  i += 1
+print("out of loop i=")
+print(i)
