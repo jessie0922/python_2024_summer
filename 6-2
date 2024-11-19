@@ -1,0 +1,6 @@
+def my_function(fname):
+    print(fname + " Refsnes")
+    
+my_function("Emil","hello")
+my_function("Tobias","hello")
+my_function("Linus","hello")
