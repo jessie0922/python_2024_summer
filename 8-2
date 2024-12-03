@@ -1,0 +1,10 @@
+print = ("apple","banana","cherry")
+
+print(thist)
+
+for x in thist:
+    print(x)
+
+print(len(thist))
+
+for x in range(0,len(thist)):
